@@ -1,2 +1,2 @@
-# multimedia-mixtape
-Introduction – CIT 673
+# Multimedia Mixtape
+My Life in Music – CIT 673
