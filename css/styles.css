@@ -8,7 +8,7 @@
   #778899   rgb(211,211,211)  lightslategrey
 */
 
-/* GLOBAL STYLES */
+/* GLOBAL */
 html {
   box-sizing: border-box;
   scroll-behavior: smooth;
@@ -95,7 +95,7 @@ header {
   padding: 40px 0 20px 0;
 }
 
-/* CONTACT */
+/* FOOTER */
 footer {
   background: #708090;
   color: #F5F5F5;
